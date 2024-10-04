@@ -83,13 +83,13 @@ Happy coding! 💻👩‍💻
 
 #### 🚀 Tech Stack:
 
-- **DSA:** Love Babbar's YouTube DSA series 💡
+- **DSA:** YouTube DSA series 💡
 - **MERN:** MongoDB, Express.js, React.js, Node.js 🎨
 
 ---
 
 ### 🙌 Acknowledgments:
-Big thanks to Love Babbar for the DSA series, and to the awesome web dev community for being such an inspiring bunch! 
+Big thanks to youtube,online coding communities for the DSA series, and to the awesome web dev community for being such an inspiring bunch! 
 
 ---
 
